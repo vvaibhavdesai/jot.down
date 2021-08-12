@@ -13,6 +13,9 @@ body {
   flex-direction: column;
 }
 /* logo */
+.primary-color{
+  color:#323232
+}
 .logo{
   height:2rem;
 }
