@@ -18,7 +18,7 @@ But here is still a walkthrough of the same:
 
 3. Add underline style by Clicking on `U` button or selcting the text you want to underline before selecting the style, unselect the `U` button if you want to remove the style.
 
-4. To add Links to your text, select the text, click on `🔗` button, enter the url in the modal. ensure you enter the complete url e.g. https://www.google.com and to remove the link select the text and select the remove link button. 
+4. To add Links to your text, select the text, click on `🔗` button, enter the url in the modal. ensure you enter the complete url e.g. https://www.linkedin.com/in/vvaibhavdesai/ and to remove the link select the text and select the remove link button. 
 
 5. Add images with ease by adding url in the modal when you click on image button.
 
