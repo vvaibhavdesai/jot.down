@@ -1,4 +1,3 @@
-https://youtu.be/ZfCg92rStRw
 # jot.down
 jot.down is a text editor which is made using React and tiptapjs 
 it support adding memes, images via url, link, bold, underline, strikethrough & italic
@@ -10,4 +9,4 @@ All the steps to use it are mentioned on the welcome modal of the
 
 Here's the demo:
 
-[![Our awesome demo](Link to Demo)](https://youtu.be/ZfCg92rStRw)
+[![Link to Demo]](https://youtu.be/ZfCg92rStRw)
