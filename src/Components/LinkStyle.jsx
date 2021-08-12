@@ -5,6 +5,7 @@ import { Modal } from "./Modal";
 export const StyleLinks = ({ editor }) => {
   const [modal, setModal] = useState(false);
   const [linkText, setLinkText] = useState("");
+//  function for setting link in the dom 
   const setLink = (url) => {
     if (url) {
       editor
