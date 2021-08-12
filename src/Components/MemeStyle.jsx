@@ -55,6 +55,7 @@ export const MemeStyles = ({ editor }) => {
   const embedGif = async (gif) => {
     
     // using the editorContent from helper state to updating in DOM
+    // after user selects which gif he wants
 
     let content = helper;
     if (gif) {
