@@ -3,12 +3,11 @@ import { useState } from "react";
 import { AiOutlineFileGif } from "react-icons/ai";
 import { MdCancel } from "react-icons/md";
 export const MemeStyles = ({ editor }) => {
-  const tenor_key = `8F4J92YQQYC5`;
+  const tenor_key = process.env.REACT_APP_API_KEY;
 
   const [memelist, setMemeList] = useState([]);
   const [memeModal, setMemeModal] = useState(false);
   const [helper, setHelper] = useState("");
-  console.log(memeModal)
 
   const getMemesFromServer = async (query) => {
     try {
