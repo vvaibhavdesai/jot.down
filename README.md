@@ -2,7 +2,7 @@
 jot.down is a text editor which is made using React and tiptapjs 
 it support adding memes, images via url, link, bold, underline, strikethrough & italic
 
-**Steps**
+**Steps**:-
 All the steps to use it are mentioned on the welcome modal of the 
 
 [Link to jot.down](https://jotdowneditor.netlify.app/)
